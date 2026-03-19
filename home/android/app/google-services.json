@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780384125037",
+    "project_id": "tianhaozhou",
+    "storage_bucket": "tianhaozhou.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780384125037:android:57ce5a546a739ab9d6bf64",
+        "android_client_info": {
+          "package_name": "com.hejitech.tianhaozhou_home"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGqotgoML54CmiYbmybmk7cOj1rxut62U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
