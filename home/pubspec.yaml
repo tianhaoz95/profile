@@ -38,6 +38,10 @@ dependencies:
   cupertino_icons: ^1.0.8
   google_generative_ai: ^0.4.7
   firebase_ai: ^2.3.0
+  rust_lib_tianhaozhou_home:
+    path: rust_builder
+  flutter_rust_bridge: 2.11.1
+  http: ^1.6.0
 
 dev_dependencies:
   flutter_test:
@@ -49,6 +53,8 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^6.0.0
+  integration_test:
+    sdk: flutter
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
